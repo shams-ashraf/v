@@ -1,0 +1,13 @@
+streamlit
+chromadb
+sentence-transformers
+pdfplumber
+PyMuPDF
+pytesseract
+Pillow
+python-dotenv
+requests
+deep-translator
+semantic-text-splitter
+tokenizers
+numpy
